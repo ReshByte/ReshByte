@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm <span style="color:#4F46E5">Reshat</span></h1>
+<h3 align="center">💻 A Passionate MERN Stack Developer from Bangladesh 🇧🇩</h3>
 
-<!--
-**ReshByte/ReshByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=reshbyte&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="profile views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏆 GitHub Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=reshbyte&theme=onedark&margin-w=10" />
+</p>
+
+---
+
+## 🌐 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/redonenobi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  </a>
+  <a href="https://facebook.com/redwan reshat" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" width="45"/>
+  </a>
+  <a href="https://instagram.com/redwan_reshat" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java,c,cpp,css,tailwind,firebase,mysql" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reshbyte&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
