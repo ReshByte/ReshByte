@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://i.ibb.co/JWC6svVR/Black-Modern-Personal-Linked-In-Banner-1.png" 
+       alt="cover image" 
+       width="100%" />
+</p>
+
 <h1 align="center">👋 Hi, I'm <span style="color:#4F46E5">Reshat</span></h1>
 <h3 align="center">💻 A Passionate MERN Stack Developer from Bangladesh 🇧🇩</h3>
 
