@@ -108,8 +108,34 @@
 
 ---
 
-### 📦 Repository Stats
+---
+
+## 📌 Pinned Projects  
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=reshbyte&limit=5&theme=tokyonight&hide_border=false" />
+
+  <!-- Assignment Ten Client -->
+  <a href="https://github.com/ReshByte/Assignment-Ten-Client" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReshByte&repo=Assignment-Ten-Client&theme=tokyonight&hide_border=false" />
+  </a>
+
+  <!-- Assignment Eight -->
+  <a href="https://github.com/ReshByte/Assignment-Eight" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReshByte&repo=Assignment-Eight&theme=tokyonight&hide_border=false" />
+  </a>
+
 </p>
+
+<p align="center">
+
+  <!-- Assignment Nine -->
+  <a href="https://github.com/ReshByte/Assignment-nine" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ReshByte&repo=Assignment-nine&theme=tokyonight&hide_border=false" />
+  </a>
+
+</p>
+
+
+
+
+
 
