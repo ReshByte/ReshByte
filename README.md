@@ -15,7 +15,27 @@
   </marquee>
 </p>
 
+
 ---
+
+## 🔥 What I’m Currently Up To
+
+  🖥️ **Crafting dynamic, responsive web interfaces** using HTML5, CSS3, and modern JavaScript
+
+  ⚛️ **Building high-performance front-end apps** with React.js, Vite, and modular component architecture
+
+  🛠️ **Developing full-stack solutions** with Node.js, Express, MongoDB, Firebase, and RESTful APIs
+
+  🎨 **Designing sleek and interactive UI/UX** with Tailwind CSS, DaisyUI, and Figma-inspired layouts
+
+  🚀 **Deploying production-ready applications** seamlessly on Vercel, Netlify, and Firebase Hosting
+
+  📚 **Exploring advanced programming concepts** including Python, MERN stack patterns, and clean architecture
+
+  🔍 **Optimizing code & learning best practices** for performance, scalability, and maintainability
+
+---
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=reshbyte&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="profile views" />
@@ -133,9 +153,4 @@
   </a>
 
 </p>
-
-
-
-
-
 
