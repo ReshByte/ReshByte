@@ -15,24 +15,41 @@
   </marquee>
 </p>
 
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-%23404d59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+<p align="center" style="font-size:20px; font-weight:bold;">
+  <span style="color:#47A248;">M</span> - 
+  <span style="color:#404d59;">E</span> - 
+  <span style="color:#61DAFB;">R</span> - 
+  <span style="color:#339933;">N</span>
+</p>
+
 
 ---
 
+
 ## 🔥 What I’m Currently Up To
 
-  🖥️ **Crafting dynamic, responsive web interfaces** using HTML5, CSS3, and modern JavaScript
+- 🖥️ **Crafting dynamic, responsive web interfaces** using HTML5, CSS3, and modern JavaScript
 
-  ⚛️ **Building high-performance front-end apps** with React.js, Vite, and modular component architecture
+- ⚛️ **Building high-performance front-end apps** with React.js, Vite, and modular component architecture
 
-  🛠️ **Developing full-stack solutions** with Node.js, Express, MongoDB, Firebase, and RESTful APIs
+- 🛠️ **Developing full-stack solutions** with Node.js, Express, MongoDB, Firebase, and RESTful APIs
 
-  🎨 **Designing sleek and interactive UI/UX** with Tailwind CSS, DaisyUI, and Figma-inspired layouts
+- 🎨 **Designing sleek and interactive UI/UX** with Tailwind CSS, DaisyUI, and Figma-inspired layouts
 
-  🚀 **Deploying production-ready applications** seamlessly on Vercel, Netlify, and Firebase Hosting
+- 🚀 **Deploying production-ready applications** seamlessly on Vercel, Netlify, and Firebase Hosting
 
-  📚 **Exploring advanced programming concepts** including Python, MERN stack patterns, and clean architecture
+- 📚 **Exploring advanced programming concepts** including Python, MERN stack patterns, and clean architecture
 
-  🔍 **Optimizing code & learning best practices** for performance, scalability, and maintainability
+- 🔍 **Optimizing code & learning best practices** for performance, scalability, and maintainability
 
 ---
 
