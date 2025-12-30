@@ -75,9 +75,7 @@
   <a href="https://facebook.com/redwan reshat" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook" width="45"/>
   </a>
-  <a href="https://instagram.com/redwan_reshat" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
-  </a>
+ 
 </p>
 
 ---
